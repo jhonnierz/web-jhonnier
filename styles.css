@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.titulo-principal {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, #ff8c00, #ffa500);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.jhonnier {
+    font-size: 50px;
+    color: #d504ff;
+    text-align: left;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    background: linear-gradient(60deg, #1b03f8, #ff0040);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(8, 250, 109, 0.959);
+}
